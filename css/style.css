@@ -1,0 +1,37 @@
+#canvas {
+    position: relative;
+    width: 430px;
+    height: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+  }
+  
+  #box {
+    position: absolute;
+    top: 60px;
+    left: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+  }
+  #box2 {
+    position: absolute;
+    top: 60px;
+    left: 275px;
+    height: 200px;
+    width: 100px;
+    background-color: yellow;
+  }
+  
+  
+  button {
+    width: 200px;
+    height: 40px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  .green { background-color: hsl(114, 90%, 27%); }
+  .red   { background-color: red;}
